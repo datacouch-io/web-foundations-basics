@@ -1,4 +1,4 @@
-### Introduction to CSS
+## Introduction to CSS
 
 #### What is CSS?
 
